@@ -54,7 +54,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/maurixss.git
+git clone https://github.com/mauritaniacoder99/maurixss.git
 cd maurixss
 
 # Install dependencies
