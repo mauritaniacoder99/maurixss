@@ -68,10 +68,6 @@ Then open your browser at http://localhost:5173
 
 
 
-
-
-📸 Screenshot
-<p align="center"> <img src="./maurixx.jpeg" alt="MauriXSS UI" width="80%" /> </p>
 💡 Use Cases
 
     🔐 Demonstrating XSS PoCs to clients or bug bounty platforms
