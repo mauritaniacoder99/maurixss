@@ -93,7 +93,7 @@ Give it a ⭐️ to support the project. Your feedback drives future features an
     "True hacking is not about tools. It's about mastery. MauriXSS is mastery — in action." – mauritaniainjector
 
 
-
+Mauritani Kremer
 
 
 
